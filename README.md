@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Shereen-Faruqi
 - 👀 I’m interested in ... Web Development and Design
 - 🌱 I’m currently learning ... JavaScript, NodeJS, ExpressJS, React JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on innovative web development projects where I can showcase my front-end skills!
 - 📫 How to reach me ... shereenfaruqi15@gmail.com
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 <!---
